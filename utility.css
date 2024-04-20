@@ -1,0 +1,14 @@
+.left{
+    border:2px solid red;
+    margin:3px;
+}
+.flex{
+    display:flex;
+}
+
+.justify-centre{
+    justify-content: center;
+}
+.items-centre{
+    align-items:center;
+}
